@@ -1,0 +1,8 @@
+langchain-parallel-quiz-notes/
+│
+├── main.py
+├── requirements.txt
+├── README.md
+├── .env.example
+├── .gitignore
+└── sample_text.txt   (optional)
